@@ -28,8 +28,8 @@
 - [![GenerateString](https://img.shields.io/badge/GENRATE%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/SessionGeneratorBot)
 ### Contact Support
 Any queries or issue contact 
-- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/BEINGHEROX)
+- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/FLASH_7H)
 
 ------
 ## CREDITS
-- [CONTACT](https://t.me/BEINGHEROX)
+- [CONTACT](https://t.me/FLASH_7H)
